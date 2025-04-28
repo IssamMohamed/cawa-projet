@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<students>
+<student>
+        <id>26</id>
+        <full_name>halouan imad</full_name>
+        <birth_date>1995-05-12</birth_date>
+        <faculty>Computer Science</faculty>
+        <specialty>Software Engineering</specialty>
+        <matricule_id>CS202315</matricule_id>
+        <year_of_study>2</year_of_study>
+        <college>Tech University</college>
+    </student><student>
+        <id>27</id>
+        <full_name>halouan imad</full_name>
+        <birth_date>1995-05-12</birth_date>
+        <faculty>Computer Science</faculty>
+        <specialty>Software Engineering</specialty>
+        <matricule_id>CS202315</matricule_id>
+        <year_of_study>2</year_of_study>
+        <college>Tech University</college>
+    </student><student>
+        <id>29</id>
+        <full_name>halouan imad</full_name>
+        <birth_date>1995-05-12</birth_date>
+        <faculty>Computer Science</faculty>
+        <specialty>Software Engineering</specialty>
+        <matricule_id>CS202315</matricule_id>
+        <year_of_study>2</year_of_study>
+        <college>Tech University</college>
+    </student></students>
