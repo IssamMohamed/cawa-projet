@@ -19,7 +19,7 @@
         <year_of_study>2</year_of_study>
         <college>Tech University</college>
     </student><student>
-        <id>29</id>
+        <id>31</id>
         <full_name>halouan imad</full_name>
         <birth_date>1995-05-12</birth_date>
         <faculty>Computer Science</faculty>
@@ -27,4 +27,13 @@
         <matricule_id>CS202315</matricule_id>
         <year_of_study>2</year_of_study>
         <college>Tech University</college>
+    </student><student>
+        <id>32</id>
+        <full_name>haouache issam</full_name>
+        <birth_date>2020-07-21</birth_date>
+        <faculty>linim</faculty>
+        <specialty>mi</specialty>
+        <matricule_id>2020310242466</matricule_id>
+        <year_of_study>5</year_of_study>
+        <college>boumerdes</college>
     </student></students>

@@ -79,6 +79,7 @@ def get_students():
 @students_bp.route('/', methods=['POST'])
 def add_student():
     student_data = request.json
+    
     full_name = student_data.get('full_name')
     birth_date = student_data.get('birth_date')
     faculty = student_data.get('faculty')
